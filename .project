@@ -14,4 +14,11 @@
 	<natures>
 		<nature>com.temenos.tafj.builder.TAFJBasicNature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>TAFJ.BP</name>
+			<type>2</type>
+			<location>D:/MB16/Temenos/ModelBank/T24/Programs/TAFJ/TAFJ-MB/appserver/basic/TAFJ.BP</location>
+		</link>
+	</linkedResources>
 </projectDescription>
